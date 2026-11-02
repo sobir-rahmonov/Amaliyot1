@@ -89,7 +89,7 @@ npm run dev
 
 ## Muallif
 
-**Ismingiz** — [GitHub](https://github.com/USERNAME)
+**Ismingiz** — [GitHub](https://github.com/sobir-rahmonov)
 
 ## Litsenziya
 
